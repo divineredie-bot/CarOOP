@@ -1,0 +1,11 @@
+label{
+    font-weight: bold;
+}
+
+#status{
+    font-weight: lighter;
+}
+
+.hide{
+    display: none;
+}
